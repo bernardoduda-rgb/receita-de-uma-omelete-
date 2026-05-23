@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    -webkit-font-smoothing: antialiassed;
 }
 
 body{
@@ -126,7 +125,7 @@ th{
     padding-left: 32px;
     font-weight: 400;
     color: #5f564d;
-    list-style: none;150%
+    list-style: 150% ;
 }
 
 td{
@@ -146,7 +145,7 @@ tr:nth-of-type(1) td{
     padding-bottom: 12px;
 }
 
-tr:nth-of-type(1) th,
+tr:nth-of-type(4) th,
 tr :nth-of-type(4) td {
     border: none;
 }
